@@ -1,1 +1,1 @@
-adet 1 
+adet 3
