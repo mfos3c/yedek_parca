@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "itemId": "3d431c13-e263-4bac-a01f-69db01beed69",
+  "revision": 1,
+  "countRevision": 1,
+  "archived": false,
+  "createdAt": "2026-08-01T07:53:54.920Z",
+  "updatedAt": "2026-08-18T10:44:41.224Z",
+  "photos": [
+    {
+      "photoId": "241a8389-45bb-4bb2-a349-9ce8a9f1c798",
+      "originalName": "IMG_1298.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1449079,
+      "sha256": "78292ca4713a68a24e83b463a9e2c6a6f1d889ac472392774117f3e4731988d0",
+      "r2Key": "originals/78292ca4713a68a24e83b463a9e2c6a6f1d889ac472392774117f3e4731988d0",
+      "createdAt": "2026-08-01T07:49:20.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.221Z"
+      }
+    },
+    {
+      "photoId": "f4a4d9cd-f0c6-4202-8a3d-84d30abb636f",
+      "originalName": "IMG_1299.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1878107,
+      "sha256": "191fd208fe560ff502f0104ed8faccc393bfa7e9e7be5c456b1f1ba401439dda",
+      "r2Key": "originals/191fd208fe560ff502f0104ed8faccc393bfa7e9e7be5c456b1f1ba401439dda",
+      "createdAt": "2026-08-01T07:50:54.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.223Z"
+      }
+    },
+    {
+      "photoId": "1ec0bf18-815e-43a5-8252-a9524aabbd7b",
+      "originalName": "IMG_1300.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1508481,
+      "sha256": "93daa0cd6a6ad62d6d87e104b85bfdf496dd8da7aa93a297cab55c8f7e8c4d90",
+      "r2Key": "originals/93daa0cd6a6ad62d6d87e104b85bfdf496dd8da7aa93a297cab55c8f7e8c4d90",
+      "createdAt": "2026-08-01T07:51:15.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.224Z"
+      }
+    }
+  ]
+}

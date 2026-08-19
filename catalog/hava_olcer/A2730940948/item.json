@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "itemId": "94a1b1bf-a7fc-4c95-a8ab-8c8a4b9784b3",
+  "revision": 1,
+  "countRevision": 0,
+  "archived": false,
+  "createdAt": "2026-08-01T09:43:38.103Z",
+  "updatedAt": "2026-08-18T10:44:40.944Z",
+  "photos": [
+    {
+      "photoId": "c4f21a05-b867-4e0b-8b28-1eb750c86197",
+      "originalName": "IMG_1344.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1120758,
+      "sha256": "89f1810ae512097a800e294177d10dec129d512e91538502280f3f8865d72ff2",
+      "r2Key": "originals/89f1810ae512097a800e294177d10dec129d512e91538502280f3f8865d72ff2",
+      "createdAt": "2026-08-01T09:44:51.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.937Z"
+      }
+    },
+    {
+      "photoId": "087d9d1d-c2e6-4db0-bb8f-fe62ea514fac",
+      "originalName": "IMG_1345.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1569434,
+      "sha256": "3c90d41bc3a5ce8666677494157e205b2388920266cc08adb3ddc4d6743d1250",
+      "r2Key": "originals/3c90d41bc3a5ce8666677494157e205b2388920266cc08adb3ddc4d6743d1250",
+      "createdAt": "2026-08-01T09:45:04.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.939Z"
+      }
+    },
+    {
+      "photoId": "00e00966-43da-4b8b-bc09-c012f85e31bf",
+      "originalName": "IMG_1346.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1872950,
+      "sha256": "68dbc8d2468bdf97669916b7e90be137851b91a2099a58afb18e06047858f35f",
+      "r2Key": "originals/68dbc8d2468bdf97669916b7e90be137851b91a2099a58afb18e06047858f35f",
+      "createdAt": "2026-08-01T09:45:22.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.942Z"
+      }
+    },
+    {
+      "photoId": "91a6bd84-10da-436c-b903-0401c546af7e",
+      "originalName": "IMG_1347.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1831267,
+      "sha256": "0750e99db6b1f816b481aac1a0df674cff9eda548a2782f4e956b2fc2b467c53",
+      "r2Key": "originals/0750e99db6b1f816b481aac1a0df674cff9eda548a2782f4e956b2fc2b467c53",
+      "createdAt": "2026-08-01T09:45:32.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.944Z"
+      }
+    }
+  ]
+}

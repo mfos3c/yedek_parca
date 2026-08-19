@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "itemId": "9cb43e6f-bda2-430e-bf9e-b8a1c1c30a48",
+  "revision": 1,
+  "countRevision": 1,
+  "archived": false,
+  "createdAt": "2026-08-03T06:17:37.853Z",
+  "updatedAt": "2026-08-18T10:44:40.755Z",
+  "photos": [
+    {
+      "photoId": "24219606-ec9d-4f4c-8fbe-1d3ab3759c50",
+      "originalName": "WhatsApp Image 2026-08-03 at 09.30.39.jpeg",
+      "mime": "image/jpeg",
+      "bytes": 59900,
+      "sha256": "f26677a2f9cf0103a9ee0dfbfe9ddda92e2521571d7fc7f529e410214829b442",
+      "r2Key": "originals/f26677a2f9cf0103a9ee0dfbfe9ddda92e2521571d7fc7f529e410214829b442",
+      "createdAt": "2026-08-03T06:31:01.222Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.753Z"
+      }
+    },
+    {
+      "photoId": "9e90dbd8-fad1-40e1-98f6-e6c0024ce3d0",
+      "originalName": "WhatsApp Image 2026-08-03 at 09.30.40 (1).jpeg",
+      "mime": "image/jpeg",
+      "bytes": 51407,
+      "sha256": "4e12540cc5cb977c991908b2af60458ce39ddf8fa57555f618b5950b8aaf84dc",
+      "r2Key": "originals/4e12540cc5cb977c991908b2af60458ce39ddf8fa57555f618b5950b8aaf84dc",
+      "createdAt": "2026-08-03T06:31:28.019Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.754Z"
+      }
+    },
+    {
+      "photoId": "eab38638-48c6-488a-b2d2-ed29f70a4fc1",
+      "originalName": "WhatsApp Image 2026-08-03 at 09.30.40.jpeg",
+      "mime": "image/jpeg",
+      "bytes": 46395,
+      "sha256": "517aced2c56bd067f58ab8a177afdb757df2b7a66f4182099bbd149aa904a06b",
+      "r2Key": "originals/517aced2c56bd067f58ab8a177afdb757df2b7a66f4182099bbd149aa904a06b",
+      "createdAt": "2026-08-03T06:31:23.863Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:40.755Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "itemId": "d2e0aa96-ee93-4b7a-9402-6b9e7f0806a9",
+  "revision": 1,
+  "countRevision": 1,
+  "archived": false,
+  "createdAt": "2026-08-06T06:10:13.800Z",
+  "updatedAt": "2026-08-18T10:44:41.470Z",
+  "photos": [
+    {
+      "photoId": "8e4e3e9c-3fd1-4de9-9fd0-9661a953dbd7",
+      "originalName": "IMG_1714.JPG",
+      "mime": "image/jpeg",
+      "bytes": 2088188,
+      "sha256": "8b4c125087b7463b3538581b6114a66a0adc0fe75c8c0bb9980a5206d1c6fa0f",
+      "r2Key": "originals/8b4c125087b7463b3538581b6114a66a0adc0fe75c8c0bb9980a5206d1c6fa0f",
+      "createdAt": "2026-08-06T06:10:30.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.460Z"
+      }
+    },
+    {
+      "photoId": "61130695-71cc-4354-834b-02a7059ad87b",
+      "originalName": "IMG_1715.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1854980,
+      "sha256": "75bc0c5842c207a8a0ea34a874b7f35120e60603ef7e1662337b9edf0b996ea2",
+      "r2Key": "originals/75bc0c5842c207a8a0ea34a874b7f35120e60603ef7e1662337b9edf0b996ea2",
+      "createdAt": "2026-08-06T06:10:43.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.463Z"
+      }
+    },
+    {
+      "photoId": "9717ebdf-56ad-489f-96c0-21a5b8c4adf6",
+      "originalName": "IMG_1716.JPG",
+      "mime": "image/jpeg",
+      "bytes": 1712543,
+      "sha256": "656197bb43ac0bf5bed505c2fa03833e7ebf02477078bcfd330239fc3b89d7d4",
+      "r2Key": "originals/656197bb43ac0bf5bed505c2fa03833e7ebf02477078bcfd330239fc3b89d7d4",
+      "createdAt": "2026-08-06T06:10:49.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.465Z"
+      }
+    },
+    {
+      "photoId": "8a412b34-81f8-42a1-bd5c-5aed620c2c93",
+      "originalName": "IMG_1717.JPG",
+      "mime": "image/jpeg",
+      "bytes": 2168640,
+      "sha256": "02036ace7e7080bffbc184ad4ef73e73ba7e935b80adeff694f850b7ead8fa41",
+      "r2Key": "originals/02036ace7e7080bffbc184ad4ef73e73ba7e935b80adeff694f850b7ead8fa41",
+      "createdAt": "2026-08-06T06:10:54.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.468Z"
+      }
+    },
+    {
+      "photoId": "e6e6b6a6-8d0c-44e4-828e-1ebd0f85f90a",
+      "originalName": "IMG_1718.JPG",
+      "mime": "image/jpeg",
+      "bytes": 2089322,
+      "sha256": "82bb85ba4fb315a63b8e73de5ffa1fd47d2e6e13500b8c2b51f9d7923ac8911d",
+      "r2Key": "originals/82bb85ba4fb315a63b8e73de5ffa1fd47d2e6e13500b8c2b51f9d7923ac8911d",
+      "createdAt": "2026-08-06T06:11:08.000Z",
+      "backup": {
+        "status": "unconfigured",
+        "updatedAt": "2026-08-18T10:44:41.470Z"
+      }
+    }
+  ]
+}
