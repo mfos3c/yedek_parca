@@ -1,1 +1,1 @@
-adet 1 , egr sogutucusu bu 
+adet 1 , egr sogutucusu bu
