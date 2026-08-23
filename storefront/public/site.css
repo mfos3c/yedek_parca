@@ -1,0 +1,105 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+  color: #142a2d;
+  background: #f6f2eb;
+  line-height: 1.5;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+
+.site-header {
+  max-width: 1180px;
+  margin: auto;
+  padding: 22px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid #ded8cf;
+}
+
+.brand {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  text-decoration: none;
+  color: inherit;
+  align-items: center;
+}
+
+.brand > span {
+  grid-row: span 2;
+  border-radius: 14px;
+  background: #142a2d;
+  color: #f6f2eb;
+  font-weight: 800;
+  font-size: 25px;
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+}
+
+.brand strong, .brand small { grid-column: 2; }
+.brand strong, h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; }
+.brand small { color: #718083; letter-spacing: .14em; text-transform: uppercase; font-size: 11px; }
+
+.header-whatsapp, .whatsapp {
+  background: #1d8a5a;
+  color: white;
+  border-radius: 4px;
+  padding: 12px 17px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.whatsapp { display: grid; gap: 1px; }
+.whatsapp span { font-size: 12px; font-weight: 500; opacity: .88; }
+.whatsapp.secondary { background: #275f67; }
+.contact-people { align-items: stretch; }
+.contact-people .whatsapp { min-width: 210px; }
+
+.hero, .listing, .product-hero { max-width: 1180px; margin: auto; padding: 70px 24px; }
+.hero { min-height: 420px; display: grid; align-items: center; background: radial-gradient(circle at 85% 30%, #dce9df, transparent 42%); }
+h1 { font-size: clamp(38px, 6vw, 72px); line-height: 1.04; max-width: 850px; margin: 12px 0 20px; }
+.lead, .hero p { font-size: 20px; max-width: 760px; color: #5c6d70; }
+.eyebrow { font-size: 12px; letter-spacing: .16em; font-weight: 800; color: #2d8370; }
+.contact-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+
+.category-grid, .product-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px; }
+.category-card, .product-card { background: #fffdfa; border: 1px solid #dfe7e2; border-radius: 4px; overflow: hidden; text-decoration: none; color: inherit; }
+.category-card { padding: 22px; display: grid; gap: 10px; }
+.category-card span { font-size: 20px; font-weight: 800; }
+.category-card strong { color: #1d8a5a; }
+.category-card small { color: #718083; }
+.product-card img, .no-photo { width: 100%; aspect-ratio: 4/3; object-fit: cover; background: #e9efeb; }
+.no-photo { display: grid; place-items: center; color: #637578; font-weight: 700; }
+.product-copy { padding: 18px; }
+.product-copy h3 { margin: 5px 0; font-size: 23px; }
+.product-copy p { color: #6b797b; }
+.link-text { color: #1d8a5a; font-weight: 800; }
+.back { color: #1d8a5a; text-decoration: none; font-weight: 700; }
+
+.product-layout { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(320px, .85fr); gap: 44px; margin-top: 30px; }
+.gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.gallery img { width: 100%; border-radius: 4px; background: white; }
+.product-info h1 { font-size: clamp(34px, 5vw, 60px); }
+.info-box { border-left: 4px solid #e4a63b; background: #fff8e9; padding: 16px; display: grid; gap: 5px; margin: 25px 0; }
+.product-info dl { display: grid; grid-template-columns: auto 1fr; gap: 9px 20px; border-top: 1px solid #dfe7e2; padding-top: 20px; }
+.product-info dt { font-weight: 800; }
+.product-info dd { margin: 0; color: #637578; }
+
+footer { background: #142a2d; color: #e5efea; padding: 38px 24px; display: grid; gap: 12px; text-align: center; }
+.footer-contacts { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+.footer-contacts a { min-width: 200px; border: 1px solid #31585b; border-radius: 4px; padding: 10px 14px; color: #bfe8d1; text-decoration: none; display: grid; }
+.footer-contacts span { font-size: 13px; color: #dce8e3; }
+
+@media (max-width: 720px) {
+  .site-header { padding: 16px; }
+  .header-whatsapp { font-size: 12px; padding: 10px; }
+  .hero, .listing, .product-hero { padding: 46px 16px; }
+  .product-layout { grid-template-columns: 1fr; gap: 28px; }
+  .gallery { grid-template-columns: 1fr 1fr; }
+  h1 { font-size: 42px; }
+  .hero p, .lead { font-size: 17px; }
+}
