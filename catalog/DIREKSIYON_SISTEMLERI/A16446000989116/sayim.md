@@ -1,1 +1,1 @@
-adet 1 , airbag mevcuttur 
+adet 1 , airbag mevcuttur
